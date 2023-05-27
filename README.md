@@ -31,9 +31,9 @@
 	<td><p><img  width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=it21191688&" alt="it21191688" /></p>
         <p><img  width="400px"  src="https://github-readme-stats.vercel.app/api?username=it21191688&show_icons=true&locale=en" alt="it21191688" /></p></td>
 	
-	<td><p><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21191688&show_icons=true&locale=en&layout=compact" alt="it21191688" /></p></td>
-	
 </tr>
+
+<td><p><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=it21191688&show_icons=true&locale=en&layout=compact" alt="it21191688" /></p></td>
 
 
 
