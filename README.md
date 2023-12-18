@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=it21191688&label=Profile%20views&color=0e75b6&style=flat" alt="it21191688" /> </p>
 
-- 🌱 I’m currently learning **Kotlin ,MERN Stack**
+- 🌱 I’m currently learning **Next js ,React Native, TypeScript**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **MERN Stack**
 
 
 <a href="https://linkedin.com/in/sadeepalakshan0804@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadeepalakshan0804@gmail.com" height="30" width="40" /></a>
